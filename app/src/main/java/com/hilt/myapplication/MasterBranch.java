@@ -7,4 +7,6 @@ public class MasterBranch {
     //MasterBranch +3
     //master will be merge release
     //git command pull merge
+    //git command fetch merge
+
 }
