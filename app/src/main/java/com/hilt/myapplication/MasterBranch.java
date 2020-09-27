@@ -5,4 +5,5 @@ public class MasterBranch {
     //MasterBranch +1
     //MasterBranch +2
     //MasterBranch +3
+    //master will be merge release
 }
